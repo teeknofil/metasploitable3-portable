@@ -18,8 +18,9 @@ Requirements:
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Internet connection
 
-Dowload
-[metasploitable3-portable_x64](https://#.nz)
+Download
+
+* [metasploitable3-portable_x64](https://#.nz)
 
 To build automatically:
 1. Run metasploitable3-portable_x64.exe_part-1
