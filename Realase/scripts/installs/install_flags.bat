@@ -1,4 +1,3 @@
-mkdir C:\inetpub\wwwroot
 copy ..\flags\six_of_diamonds.zip C:\inetpub\wwwroot
 
 copy ..\flags\jack_of_clubs.png C:\WINDOWS\System32\jack_of_clubs.png
