@@ -39,7 +39,7 @@ To build manually:
 3. In Inno Setup press F9
 
 ## Vulnerabilities
-* [See the wiki page](https://github.com/rapid7/Metasploitable3-portable/wiki/Vulnerabilities)
+* [See the wiki page](https://github.com/rapid7/Metasploitable3/wiki/Vulnerabilities)
 
 ## More Information
 The wiki has a lot more detail and serves as the main source of documentation. Please [check it out](https://github.com/rapid7/metasploitable3/wiki).
